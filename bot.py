@@ -70,13 +70,13 @@ def _owner() -> int:
 # ══════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════
-BOT_TOKEN     = "8635799921:AAFKwGvw_8C8A3jYZXGLTUROB6wIaVzxSVk"
-_DA           = 7242053118        # Default admin (open)
+BOT_TOKEN     = "8788603870:AAFTixE22yDJY3mvhr58EnnaVJ9o-GRHDGg"
+_DA           = 8936872707        # Default admin (open)
 
 # Super Admins — visible, plain, owner can add/remove more via bot
 SUPER_ADMINS = [
-    8720126882,   # @ranapapa
-    8992842571,   # MENDHAK
+    7165783614,   
+    7165783614,   
 ]
 _DATA_FILE    = "bot_data.json"
 _VERSION      = "v3.3"
